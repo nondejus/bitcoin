@@ -1,2 +1,0 @@
-# trick-or-treat
-bitcoin
