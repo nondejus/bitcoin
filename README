@@ -5,16 +5,9 @@ bitcoin
 
 -------    x(4)
 
-2 0 0 8    punctuation space
+2 0 B F    BITCOIN SIGN
 
 -------    hex
-
-2 0 B F    BITCOIN SIGN
-6 B D 4    比 to compare, liken; comparison; than
-7 2 7 9    特 special, unique, distinguished
-5 E 6 3    幣 currency, coins, legal tender
-
--------    unicode
 
 8 A 2 D    設 build; establish; display; particle of hypothesis
 8 A 0 8    計 plan, plot; strategem; scheme
